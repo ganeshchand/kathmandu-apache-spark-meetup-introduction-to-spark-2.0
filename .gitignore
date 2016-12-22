@@ -1,7 +1,7 @@
 target
 .idea
 spark-warehouse
-
+.DS_Store
 
 
 
